@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Jogador Teste 1",
+    "action": "Pedra"
+  },
+  {
+    "name": "Jogador Teste 2",
+    "action": "Papel"
+  },
+  {
+    "name": "Jogador Teste 3",
+    "action": "Tesoura"
+  },
+  {
+    "name": "Jogador Teste 4",
+    "action": "Spock"
+  },
+  {
+    "name": "Jogador Teste 5",
+    "action": "Lagarto"
+  }
+]
